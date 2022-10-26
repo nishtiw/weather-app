@@ -9,4 +9,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Used Template driven form and two-way data binding to implement the search funtionality 
 * Build and deployed using ghpages 
     * [Video tutorial](https://www.youtube.com/watch?v=RmiwiKt_Yag&ab_channel=KakhaGujejiani) 
-* [Reference Tutorial](https://www.youtube.com/watch?v=psZXU8PTAS8)
+* [Reference Tutorial](https://www.youtube.com/watch?v=psZXU8PTAS8) for Weather App
